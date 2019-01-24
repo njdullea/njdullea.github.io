@@ -1,24 +1,13 @@
-Hello World
-
-<br><br><br>
-
-I have followed the instructions here:
-https://pages.github.com/
-
-<br><br><br>
-
-Now time to try and do jekyll stuff then make a blogpost!
-
-<br>
-
-For Jekyll, I am following this: https://jekyllrb.com/docs/
-
-<br> 
-
-I completed the instructions, now I have a directory in my local repository called ./myblog I can view by imputing 'bundle exec jekyll serve' going to http://localhost:4000 in a browser. 
-
-
-
-<br> transitioning from github pages to jekyll was confusing, because github had you make a directory, and then the jekyll link made you make a directory inside of that, but they should be the same!! so I had to use jekyll new . --force
-
-<br>
+---
+title: Home
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+     <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
