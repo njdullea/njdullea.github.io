@@ -46,4 +46,6 @@ easily understand what is happening and how to make changes to the theme.
 
 I had to follow how to make the gem based theme local, thus the article from michaelsoolee :) 
 
+Testing commitizen. 
+
 [ghp]: https://pages.github.com/
