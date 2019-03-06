@@ -21,4 +21,12 @@ You can find the source code for Jekyll at GitHub:
 
 -->
 
+## Currently Under Construction
+
 Welcome to Nathan Dullea's blog. This is where I will write about many things. 
+
+The blog is currently under construction. Here are some things I want to do: 
+
+1. Improve the look. Including making the footer Smaller, Color in the header, move dates to the side of posts, make the top post be bigger and have a picture, and add an icon for the page tab. 
+2. Add functionality. Including a filter for the categories of posts shown, a search bar, and add Analytics/SEO. 
+3. Write More!
